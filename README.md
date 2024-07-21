@@ -1,5 +1,4 @@
-# Seedling-Hackathon
-# MVP 방법론
+# MVP 방법론 - Team 파프리카 갱스터
 
 ## 1. 아이디어 브리프 및 요구 사항 정의
 
